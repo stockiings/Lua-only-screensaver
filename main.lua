@@ -458,5 +458,5 @@ function load_theme()
     bounce_size = theme.box_size or 0.2
     bounce_v = theme.box_speed or 200
 
-    print("✅ Theme loaded successfully!")
+    print("Theme loaded successfully!")
 end
